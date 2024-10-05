@@ -1,0 +1,459 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- This document was created with Syntext Serna Free. -->
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsa8="http://dita.oasis-open.org/architecture/2005/" id="plus-extlinks" title="Карта внешних ссылок" xml:lang="" xsi:noNamespaceSchemaLocation="urn:yandex:names:tc:dita:xsd:yandexMap.xsd:1.3">
+  <keydef keys="url-yandex" href="https://ya.ru" format="html" scope="external"/>
+  <keydef keys="url-blogs" href="https://yandex.ru/blogs/" format="html" scope="external"/>
+  <keydef keys="url-searchindex" href="https://yandex.ru/company/technologies/searchindex/" format="html" scope="external"/>
+  <keydef keys="url-patents" href="https://yandex.ru/patents" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-patents" href="https://yandex.ru/patents" format="html" scope="external" locale="en-ru"/>
+  <keydef keys="url-patents-wiki" href="https://ru.wikipedia.org/wiki/Патент" format="html" scope="external" locale="ru-ru"/>
+  <keydef keys="url-patents-wiki" href="https://en.wikipedia.org/wiki/Patent" format="html" scope="external" locale="en-ru"/>
+  <keydef keys="url-patents-author" href="https://ru.wikipedia.org/wiki/Авторское_свидетельство" format="html" scope="external" locale="ru-ru"/>
+  <keydef keys="url-patents-author" href="https://en.wikipedia.org/wiki/Glossary_of_patent_law_terms#Author.E2.80.99s_certificate" format="html" scope="external" locale="en-ru"/>
+  <keydef keys="url-patents-fips" href="http://new.fips.ru" format="html" scope="external" locale="ru-ru"/>
+  <keydef keys="url-patents-fips" href="http://new.fips.ru/en/" format="html" scope="external" locale="en-ru"/>
+  <keydef keys="url-yandex-browser" href="https://browser.yandex.ru" format="html" scope="external"/>
+  <keydef keys="url-chrome-browser" href="https://www.google.ru/chrome/browser/" format="html" scope="external"/>
+  <keydef keys="url-opera-browser" href="https://www.opera.com/ru" format="html" scope="external"/>
+  <keydef keys="url-mozilla-browser" href="https://www.mozilla.org/ru/firefox" format="html" scope="external"/>
+  <keydef keys="url-sophos" href="http://www.sophos.com/en-us/" format="html" scope="external"/>
+
+  <keydef keys="url-windows-microphone-access" href="https://support.microsoft.com/ru-ru/windows/включение-разрешений-приложения-для-микрофона-в-windows-94991183-f69d-b4cf-4679-c98ca45f577a" format="html" scope="external"/>
+  <keydef keys="url-windows-microphone-fix-problem" href="https://support.microsoft.com/ru-ru/windows/устранение-проблем-с-микрофоном-5f230348-106d-bfa4-1db5-336f35576011#WindowsVersion=Windows_10" format="html" scope="external"/>
+  <keydef keys="url-macos-microphone-fix-problem" href="https://support.dictanote.co/hc/en-us/articles/22142797458189-How-to-fix-Microphone-Access-Denied-by-System-error" format="html" scope="external"/>
+
+  <keydef keys="url-wikipedia-hosts" href="https://ru.wikipedia.org/wiki/Hosts" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-wikipedia-hosts" href="https://en.wikipedia.org/wiki/Hosts_%28file%29" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-optimization" href="https://yandex.ru/company/rules/optimization/" format="html" scope="external"/>
+
+  <keydef keys="url-wiki-lang-code" href="https://ru.wikipedia.org/wiki/Коды_языков#ISO_639" format="html" scope="external" locale="ru-ru ru-kz ru-uz"/>
+  <keydef keys="url-wiki-lang-code" href="https://en.wikipedia.org/wiki/List_of_ISO_639_language_codes" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-wiki-lang-code" href="https://kk.wikipedia.org/wiki/ISO_639-1" format="html" scope="external" locale="kk-kz"/>
+  <keydef keys="url-wiki-lang-code" href="https://uz.wikipedia.org/wiki/ISO_639-1" format="html" scope="external" locale="uz-uz"/>
+
+  <keydef keys="url-dns" href="https://dns.yandex.ru/" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns" href="https://dns.yandex.com/" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-win" href="https://yandex.ru/support/dns/settings-windows.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-win" href="https://yandex.com/support/dns/settings-windows.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-linux" href="https://yandex.ru/support/dns/settings-linux.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-linux" href="https://yandex.com/support/dns/settings-linux.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-macos" href="https://yandex.ru/support/dns/settings-macos.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-macos" href="https://yandex.com/support/dns/settings-macos.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-asus" href="https://yandex.ru/support/dns/asus.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-asus" href="https://yandex.com/support/dns/asus.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-dlink" href="https://yandex.ru/support/dns/d-link.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-dlink" href="https://yandex.com/support/dns/d-link.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-zyxel" href="https://yandex.ru/support/dns/zyxel.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-zyxel" href="https://yandex.com/support/dns/zyxel.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-guide" href="https://yandex.ru/support/dns/" format = "html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-guide" href="https://yandex.com/support/dns/" format = "html" scope="external" locale="com tr"/>
+  <keydef keys="url-dns-setting" href="https://yandex.ru/support/dns/setting.html" format = "html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-dns-setting" href="https://yandex.com/support/dns/setting.html" format = "html" scope="external" locale="com tr"/>
+
+  <keydef keys="url-webmaster" href="https://webmaster.yandex.ru" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster" href="https://webmaster.yandex.kz" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster" href="https://webmaster.yandex.uz" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster" href="https://webmaster.yandex.com" format="html" scope="external" locale="com"/>
+  <keydef keys="url-webmaster" href="https://webmaster.yandex.com.tr" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-detecting-malware" href="https://yandex.ru/support/webmaster/security/detecting-malware.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-detecting-malware" href="https://yandex.kz/support/webmaster/security/detecting-malware.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-detecting-malware" href="https://yandex.uz/support/webmaster/security/detecting-malware.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-detecting-malware" href="https://yandex.com/support/webmaster/security/detecting-malware.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-detecting-malware" href="https://yandex.com.tr/support/webmaster/security/detecting-malware.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-indexing" href="https://yandex.ru/support/webmaster/recommendations/indexing.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-indexing" href="https://yandex.kz/support/webmaster/recommendations/indexing.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-indexing" href="https://yandex.uz/support/webmaster/recommendations/indexing.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-indexing" href="https://yandex.com/support/webmaster/recommendations/indexing.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-indexing" href="https://yandex.com.tr/support/webmaster/recommendations/indexing.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-robot" href="https://yandex.ru/support/webmaster/robot-workings/robot.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-robot" href="https://yandex.kz/support/webmaster/robot-workings/robot.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-robot" href="https://yandex.uz/support/webmaster/robot-workings/robot.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-robot" href="https://yandex.com/support/webmaster/robot-workings/robot.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-robot" href="https://yandex.com.tr/support/webmaster/robot-workings/robot.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-intro" href="https://yandex.ru/support/webmaster/recommendations/intro.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-intro" href="https://yandex.kz/support/webmaster/recommendations/intro.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-intro" href="https://yandex.uz/support/webmaster/recommendations/intro.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-intro" href="https://yandex.com/support/webmaster/recommendations/intro.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-intro" href="https://yandex.com.tr/support/webmaster/recommendations/intro.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-favicon" href="https://yandex.ru/support/webmaster/search-results/favicon.html#how-to-create" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-favicon" href="https://yandex.kz/support/webmaster/search-results/favicon.html#how-to-create" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-favicon" href="https://yandex.uz/support/webmaster/search-results/favicon.html#how-to-create" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-favicon" href="https://yandex.com/support/webmaster/search-results/favicon.html#how-to-create" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-favicon" href="https://yandex.com.tr/support/webmaster/search-results/favicon.html#how-to-create" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-snippet" href="https://yandex.ru/support/webmaster/troubleshooting/snippet.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-snippet" href="https://yandex.ru/support/webmaster/troubleshooting/snippet.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-snippet" href="https://yandex.ru/support/webmaster/troubleshooting/snippet.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-snippet" href="https://yandex.ru/support/webmaster/troubleshooting/snippet.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-snippet" href="hhttps://yandex.ru/support/webmaster/troubleshooting/snippet.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-header" href="https://yandex.ru/support/webmaster/search-results/site-description.html#changing-header-description" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-header" href="https://yandex.kz/support/webmaster/search-results/site-description.html#changing-header-description" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-header" href="https://yandex.uz/support/webmaster/search-results/site-description.html#changing-header-description" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-header" href="https://yandex.com/support/webmaster/search-results/site-description.html#changing-header-description" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-header" href="https://yandex.com.tr/support/webmaster/search-results/site-description.html#changing-header-description" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-webmaster-site-indexing" href="https://yandex.ru/support/webmaster-troubleshooting-info/site-indexing.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-site-indexing" href="https://yandex.ru/support/webmaster-troubleshooting-info/site-indexing.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-site-indexing" href="https://yandex.uz/support/webmaster-troubleshooting-info/site-indexing.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-site-indexing" href="https://yandex.com/support/webmaster-troubleshooting-info/site-indexing.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-site-indexing" href="https://yandex.com.tr/support/webmaster-troubleshooting-info/site-indexing.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-rank" href="https://yandex.ru/support/webmaster-troubleshooting-info/rank.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-rank" href="https://yandex.ru/support/webmaster-troubleshooting-info/rank.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-rank" href="https://yandex.uz/support/webmaster-troubleshooting-info/rank.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-rank" href="https://yandex.com/support/webmaster-troubleshooting-info/rank.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-rank" href="https://yandex.com.tr/support/webmaster-troubleshooting-info/rank.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-mirrors" href="https://yandex.ru/support/webmaster/yandex-indexing/site-addresses.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-mirrors" href="https://yandex.kz/support/webmaster/yandex-indexing/site-addresses.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-mirrors" href="https://yandex.uz/support/webmaster/yandex-indexing/site-addresses.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-mirrors" href="https://yandex.com/support/webmaster/yandex-indexing/site-mirrors.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-mirrors" href="https://yandex.com.tr/support/webmaster/yandex-indexing/site-mirrors.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-support-webmaster-reindex" href="https://webmaster.yandex.ru/sites/add/" format="html" scope="external" locale="ru ru-kz ru-uz"/>
+  <keydef keys="url-support-webmaster-reindex" href="https://webmaster.yandex.com/sites/add/" format="html" scope="external" locale="com tr kk-kz uz-uz"/>
+
+  <keydef keys="url-support-webmaster-navigation" href="https://yandex.ru/support/webmaster/search-results/navigation.html#navigation" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-navigation" href="https://yandex.com/support/webmaster/search-results/navigation.html#navigation" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-navigation" href="https://yandex.com.tr/support/webmaster/search-results/navigation.html#navigation" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-description" href="https://yandex.ru/support/webmaster/search-results/site-description.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-description" href="https://yandex.com/support/webmaster/search-results/site-description.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-description" href="https://yandex.com.tr/support/webmaster/search-results/site-description.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-troubleshooting" href="https://yandex.ru/support/webmaster/troubleshooting.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-webmaster-troubleshooting" href="https://yandex.kz/support/webmaster/troubleshooting.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-troubleshooting" href="https://yandex.uz/support/webmaster/troubleshooting.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-webmaster-troubleshooting" href="https://yandex.com/support/webmaster/troubleshooting.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-troubleshooting" href="https://yandex.com.tr/support/webmaster/troubleshooting.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-tags" href="https://yandex.ru/support/webmaster/search-results/tags.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-tags" href="https://yandex.kz/support/webmaster/search-results/tags.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-webmaster-tags" href="https://yandex.com/support/webmaster/search-results/tags.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-tags" href="https://yandex.com.tr/support/webmaster/search-results/tags.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-marking" href="https://yandex.ru/support/webmaster/search-results/quick-links.html#quick-links/marking" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-marking" href="https://yandex.com/support/webmaster/search-results/quick-links.html#quick-links/marking" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-marking" href="https://yandex.com.tr/support/webmaster/search-results/quick-links.html#quick-links/marking" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-editing" href="https://yandex.ru/support/webmaster/search-results/quick-links-result.html#quick-links-result__settings" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-editing" href="https://yandex.com/support/webmaster/search-results/quick-links-result.html#quick-links-result__settings" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-editing" href="https://yandex.com.tr/support/webmaster/search-results/quick-links-result.html#quick-links-result__settings" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-data-transmit" href="https://yandex.ru/support/webmaster/site-content/data-transmit.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-data-transmit" href="https://yandex.com/support/webmaster/site-content/data-transmit.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-data-transmit" href="https://yandex.com.tr/support/webmaster/site-content/data-transmit.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-reach" href="https://yandex.ru/support/webmaster/search-results/rich-snippet.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-reach" href="https://yandex.com/support/webmaster/search-results/rich-snippet.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-reach" href="https://yandex.com.tr/support/webmaster/search-results/rich-snippet.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-schema-org" href="https://yandex.ru/support/webmaster/schema-org/what-is-schema-org.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-schema-org" href="https://yandex.com/support/webmaster/schema-org/what-is-schema-org.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-schema-org" href="https://yandex.com.tr/support/webmaster/schema-org/what-is-schema-org.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-schema-organization" href="https://yandex.ru/support/webmaster/supported-schemas/address-organization.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-schema-organization" href="https://yandex.com/support/webmaster/supported-schemas/address-organization.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-schema-organization" href="https://yandex.com.tr/support/webmaster/supported-schemas/address-organization.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-schema-recipe" href="https://yandex.ru/support/webmaster/supported-schemas/recipe.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-schema-recipe" href="https://yandex.com/support/webmaster/supported-schemas/recipe.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-schema-recipe" href="https://yandex.com.tr/support/webmaster/supported-schemas/recipe.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-webmaster-quality" href="https://yandex.ru/support/webmaster/search-quality.html" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-support-webmaster-quality" href="https://yandex.com/support/webmaster/search-quality.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-webmaster-quality" href="https://yandex.com.tr/support/webmaster/search-quality.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-saved-copy" href="https://yandex.ru/support/webmaster/site-indexing/saved-copy.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-saved-copy" href="https://yandex.com/support/webmaster/site-indexing/saved-copy.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-saved-copy" href="https://yandex.kz/support/webmaster/site-indexing/saved-copy.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-saved-copy" href="https://yandex.uz/support/webmaster/site-indexing/saved-copy.html" format="html" scope="external" locale="uz"/>
+
+  <keydef keys="url-yandex-main" href="https://ya.ru" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-yandex-main" href="https://yandex.uz" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-yandex-main" href="https://yandex.kz" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-yandex-main" href="https://yandex.com" format="html" scope="external" locale="com"/>
+  <keydef keys="url-yandex-main" href="https://yandex.com.tr" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-tune-lang" href="https://yandex.ru/tune/lang" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-tune-lang" href="https://yandex.kz/tune/lang" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-tune-lang" href="https://yandex.uz/tune/lang" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-tune-lang" href="https://yandex.com/tune/lang" format="html" scope="external" locale="com"/>
+  <keydef keys="url-tune-lang" href="https://yandex.com.tr/tune/lang" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-tune-search" href="https://yandex.ru/tune/search" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-tune-search" href="https://yandex.kz/tune/search" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-tune-search" href="https://yandex.uz/tune/search" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-tune-search" href="https://yandex.com/tune/search" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-tune-search" href="https://yandex.com.tr/tune/search" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-page-settings" href="https://yandex.ru/tune/common/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-page-settings" href="https://yandex.uz/tune/common/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-page-settings" href="https://yandex.kz/tune/common/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-page-settings" href="https://yandex.com/tune/common/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-page-settings" href="https://yandex.com.tr/tune/common/" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-tune-adv" href="https://yandex.ru/tune/adv/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-tune-adv" href="https://yandex.uz/tune/adv/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-tune-adv" href="https://yandex.kz/tune/adv/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-tune-adv" href="https://yandex.com/tune/adv/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-tune-adv" href="https://yandex.com.tr/tune/adv/" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-ranking" href="http://company.yandex.ru/rules/ranking/" format="html" scope="external"/>
+  <keydef keys="url-rules-filtration" href="https://yandex.ru/company/rules/filtration/" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-rules-filtration" href="https://yandex.com/company/our_principles/adult_content/" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-search" href="http://yandex.ru/search" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-search" href="http://yandex.uz/search" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-search" href="http://yandex.kz/search" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-search" href="http://yandex.com/search" format="html" scope="external" locale="com"/>
+  <keydef keys="url-search" href="http://yandex.com.tr/search" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-news" href="http://yandex.ru/news" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-news" href="http://yandex.uz/news" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-news" href="http://yandex.kz/news" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-news" href="http://yandex.com/news" format="html" scope="external" locale="com"/>
+  <keydef keys="url-news" href="http://yandex.com.tr/news" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-sprav-companies" href="https://yandex.ru/sprav/companies" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-sprav-companies" href="https://yandex.kz/sprav/companies" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-sprav-companies" href="https://yandex.uz/sprav/companies" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-sprav-companies" href="https://yandex.com/sprav/companies" format="html" scope="external" locale="com"/>
+  <keydef keys="url-sprav-companies" href="https://yandex.com.tr/sprav/companies" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-market-partners" href="https://partner.market.yandex.ru/welcome/shops?utm_source=yandex.webmaster&amp;utm_medium=landing&amp;utm_campaign=serpsnippets" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-market-partners" href="https://partner.market.yandex.com/welcome/shops?utm_source=yandex.webmaster&amp;utm_medium=landing&amp;utm_campaign=serpsnippets" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-afisha-api" href="https://yandex.ru/dev/afisha/yaga_in/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-adv-contacts" href="https://yandex.ru/adv/contact?menu=open" format="html" scope="external" locale="ru uz"/>
+  <keydef keys="url-adv-contacts" href="https://yandex.kz/adv/contact?menu=open" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-adv-contacts" href="https://yandex.com/adv/contact?menu=open" format="html" scope="external" locale="com"/>
+  <keydef keys="url-adv-contacts" href="https://yandex.com.tr/adv/contact?menu=open" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-internetometer" href="http://yandex.ru/internet/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-internetometer" href="http://yandex.kz/internet/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-internetometer" href="http://yandex.uz/internet/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-internetometer" href="http://yandex.com/internet/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-internetometer" href="http://yandex.com.tr/internet/" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-entity-search" href="http://yandex.ru/company/technologies/entity_search" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-entity-search" href="http://yandex.com/company/technologies/entity_search" format="html" scope="external" locale="com"/>
+  <keydef keys="url-entity-search" href="http://yandex.com.tr/company/technologies/entity_search" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-yandex-technologies" href="http://yandex.ru/company/technologies" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-yandex-technologies" href="http://yandex.com/company/technologies" format="html" scope="external" locale="com"/>
+  <keydef keys="url-yandex-technologies" href="http://yandex.com.tr/company/technologies" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-yandex-searchsters" href="http://yandex.ru/company/technologies/searchsters" format="html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-yandex-searchsters" href="http://yandex.com/company/technologies/searchsters" format="html" scope="external" locale="com"/>
+  <keydef keys="url-yandex-searchsters" href="http://yandex.com.tr/company/technologies/searchsters" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-yandex-metrika" href="https://metrika.yandex.ru" format="html" scope="external" locale="ru uz"/>
+  <keydef keys="url-yandex-metrika" href="http://metrika.yandex.kz" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-yandex-metrika" href="http://metrika.yandex.com" format="html" scope="external" locale="com"/>
+  <keydef keys="url-yandex-metrika" href="http://metrika.yandex.kz.com.tr" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-mail" href="https://mail.yandex.ru/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-mail" href="https://mail.yandex.uz/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-mail" href="https://mail.yandex.kz/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-mail" href="https://mail.yandex.com/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-mail" href="https://mail.yandex.com.tr/" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-video" href="https://yandex.ru/video/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-video" href="https://yandex.uz/video/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-video" href="https://yandex.kz/video/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-video" href="https://yandex.com/video/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-video" href="https://yandex.com.tr/video/" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-browser" href="https://yandex.ru/support/browser/search-and-browse/search.html" format="html" scope="external"/>
+  <keydef keys="url-support-passport" href="https://yandex.ru/support/passport/authorization/registration.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-passport" href="https://yandex.uz/support/passport/authorization/registration.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-passport" href="https://yandex.kz/support/passport/authorization/registration.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-passport" href="https://yandex.com/support/passport/authorization/registration.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-passport" href="https://yandex.com.tr/support/passport/authorization/registration.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-cookies" href="https://yandex.ru/support/common/browsers-settings/browsers-cookies.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-cookies" href="https://yandex.uz/support/common/browsers-settings/browsers-cookies.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-cookies" href="https://yandex.kz/support/common/browsers-settings/browsers-cookies.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-cookies" href="https://yandex.com/support/common/browsers-settings/browsers-cookies.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-cookies" href="https://yandex.com.tr/support/common/browsers-settings/browsers-cookies.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-abuse-adult" href="https://yandex.ru/support/abuse/troubleshooting/search/adult.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-abuse-adult" href="https://yandex.com/support/abuse/troubleshooting/search/adult.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-adblock" href="https://yandex.ru/support/common/troubleshooting/yandex-in-adblock.html#yandex-in-adblock" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-adblock" href="https://yandex.kz/support/common/troubleshooting/yandex-in-adblock.html#yandex-in-adblock" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-adblock" href="https://yandex.uz/support/common/troubleshooting/yandex-in-adblock.html#yandex-in-adblock" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-cache" href="https://yandex.ru/support/common/browsers-settings/cache.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-cache" href="https://yandex.uz/support/common/browsers-settings/cache.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-cache" href="https://yandex.kz/support/common/browsers-settings/cache.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-cache" href="https://yandex.com/support/common/browsers-settings/cache.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-cache" href="https://yandex.com.tr/support/common/browsers-settings/cache.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-web-security" href="https://yandex.ru/support/common/security/web-security.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-web-security" href="https://yandex.kz/support/common/security/web-security.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-web-security" href="https://yandex.uz/support/common/security/web-security.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-web-security" href="https://yandex.com/support/common/security/web-security.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-web-security" href="https://yandex.com.tr/support/common/security/web-security.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-screenshot" href="https://yandex.ru/support/common/troubleshooting/screenshot.html#screenshot" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-screenshot" href="https://yandex.kz/support/common/troubleshooting/screenshot.html#screenshot" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-screenshot" href="https://yandex.uz/support/common/troubleshooting/screenshot.html#screenshot" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-screenshot" href="https://yandex.com/support/common/troubleshooting/screenshot.html#screenshot" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-screenshot" href="https://yandex.com.tr/support/common/troubleshooting/screenshot.html#screenshot" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-cantlogin" href="http://yandex.ru/support/passport/troubleshooting/cant-login.html#cant-login" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-cantlogin" href="http://yandex.kz/support/passport/troubleshooting/cant-login.html#cant-login" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-cantlogin" href="http://yandex.uz/support/passport/troubleshooting/cant-login.html#cant-login" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-cantlogin" href="http://yandex.com/support/passport/troubleshooting/cant-login.html#cant-login" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-cantlogin" href="http://yandex.com.tr/support/passport/troubleshooting/cant-login.html#cant-login" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-captcha" href="https://yandex.ru/support2/captcha/ru/index" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-captcha" href="https://yandex.ru/support2/captcha/kk/index" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-captcha" href="https://yandex.ru/support2/captcha/uz/index" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-captcha" href="https://yandex.ru/support2/captcha/en/index" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-captcha" href="https://yandex.ru/support2/captcha/tr/index" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-region" href="http://yandex.ru/support/common/yandex-settings/region-settings.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-region" href="http://yandex.kz/support/common/yandex-settings/region-settings.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-region" href="http://yandex.uz/support/common/yandex-settings/region-settings.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-region" href="http://yandex.com/support/common/yandex-settings/region-settings.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-region" href="http://yandex.com.tr/support/common/yandex-settings/region-settings.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-images-indexing" href="https://yandex.ru/support/images/indexing.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-images-indexing" href="https://yandex.uz/support/images/indexing.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-images-indexing" href="https://yandex.kz/support/images/indexing.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-images-indexing" href="https://yandex.com/support/images/indexing.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-support-video" href="https://yandex.ru/support/video/partners/partner-program.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-video" href="https://yandex.uz/support/video/partners/partner-program.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-video" href="https://yandex.kz/support/video/partners/partner-program.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-video" href="https://yandex.com/support/video/partners/partner-program.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-video" href="https://yandex.com.tr/support/video/partners/partner-program.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-direct-feed" href="https://yandex.ru/support/direct/dynamic-text-ads/feeds.html" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-direct-feed" href="https://yandex.com/support/direct/dynamic-text-ads/feeds.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-direct-positions" href="https://yandex.ru/support/direct/general/positions.html" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-direct-positions" href="https://yandex.com/support/direct/general/positions.html" format="html" scope="external" locale="com tr"/>
+  <keydef keys="url-support-preview" href="https://yandex.ru/support/video/partners/dynamic-preview.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-preview" href="https://yandex.uz/support/video/partners/dynamic-preview.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-preview" href="https://yandex.kz/support/video/partners/dynamic-preview.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-preview" href="https://yandex.com/support/video/partners/dynamic-preview.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-preview" href="https://yandex.com.tr/support/video/partners/dynamic-preview.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-films" href="https://yandex.ru/dev/snippets/doc/cinema-feed/data-specifications.html" format="html" scope="external"/>
+  <keydef keys="url-support-books" href="https://yandex.ru/dev/snippets/doc/book-feed/data-specifications.html" format="html" scope="external"/>
+  <keydef keys="url-support-sprav-terms" href="https://yandex.ru/support/sprav/add-company/info-terms.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-sprav-terms" href="https://yandex.kz/support/sprav/add-company/info-terms.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-sprav-terms" href="https://yandex.uz/support/sprav/add-company/info-terms.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-sprav-terms" href="https://yandex.com/support/sprav/add-company/info-terms.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-sprav-terms" href="https://yandex.com.tr/support/sprav/add-company/info-terms.html" format="html" scope="external" locale="tr"/>
+  <keydef keys="url-support-main-page" href="https://yandex.ru/support/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-main-page" href="https://yandex.kz/support/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-main-page" href="https://yandex.uz/support/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-main-page" href="https://yandex.com/support/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-main-page" href="https://yandex.com.tr/support/" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-support-smart-captcha" href="https://yandex.ru/support2/smart-captcha/ru/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-smart-captcha" href="https://yandex.kz/support2/smart-captcha/kk/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-smart-captcha" href="https://yandex.uz/support2/smart-captcha/uz/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-smart-captcha" href="https://yandex.com/support2/smart-captcha/en/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-smart-captcha" href="https://yandex.com.tr/support2/smart-captcha/tr/" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-support-smart-captcha-about-403" href="https://yandex.ru/support2/smart-captcha/ru/about-403.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-smart-captcha-about-403" href="https://yandex.kz/support2/smart-captcha/kk/about-403.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-smart-captcha-about-403" href="https://yandex.uz/support2/smart-captcha/uz/about-403.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-smart-captcha-about-403" href="https://yandex.com/support2/smart-captcha/en/about-403.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-smart-captcha-about-403" href="https://yandex.com.tr/support2/smart-captcha/tr/about-403.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-support-cache" href="https://yandex.ru/support/common/browsers-settings/cache.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-cache" href="https://yandex.kz/support/common/browsers-settings/cache.html?lang=kk" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-cache" href="https://yandex.uz/support/common/browsers-settings/cache.html?lang=uz" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-cache" href="https://yandex.com/support/common/browsers-settings/cache.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-cache" href="https://yandex.com.tr/support/common/browsers-settings/cache.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-support-phishing" href="https://yandex.ru/support/common/security/phishing.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-phishing" href="https://yandex.kz/support/common/security/phishing.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-phishing" href="https://yandex.uz/support/common/security/phishing.html?lang=uz" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-phishing" href="https://yandex.com/support/common/security/phishing.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-phishing" href="https://yandex.com.tr/support/common/security/phishing.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-legal-confidential" href="https://yandex.ru/legal/confidential/" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-legal-confidential" href="https://yandex.kz/legal/confidential/" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-legal-confidential" href="https://yandex.uz/legal/confidential/" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-legal-confidential" href="https://yandex.com/legal/confidential/" format="html" scope="external" locale="com"/>
+  <keydef keys="url-legal-confidential" href="https://yandex.com.tr/legal/confidential/" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-yandex-alice-app-android" href="https://yandex.ru/support/yandex-app-android-alice/settings/others.html#background-desktop" scope="external" locale="ru uz"/>
+  <keydef keys="url-yandex-alice-app-android" href="https://yandex.kz/support/yandex-app-android-alice/settings/others.html#background-desktop" scope="external" locale="kz"/>
+  <keydef keys="url-yandex-alice-app-android" href="https://yandex.com/support/yandex-app-android-alice/settings/others.html#background-desktop" scope="external" locale="com tr"/>
+
+  <keydef keys="url-yandex-app-android" href="https://yandex.ru/support/yandex-app-android/settings/others.html#background-desktop" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-yandex-app-android" href="https://yandex.com/support/yandex-app-android/settings/others.html#background-desktop" scope="external" locale="com tr"/>
+
+  <keydef keys="url-yandex-alice-app-ios" href="https://yandex.ru/support/yandex-app-ios/settings/others.html#background-desktop" scope="external" locale="ru uz"/>
+  <keydef keys="url-yandex-alice-app-ios" href="https://yandex.kz/support/yandex-app-ios/settings/others.html#background-desktop" scope="external" locale="kz"/>
+  <keydef keys="url-yandex-alice-app-ios" href="https://yandex.com/support/yandex-app-ios/settings/others.html#background-desktop" scope="external" locale="com tr"/>
+
+  <keydef keys="url-family-filter-children" href="https://yandex.ru/support/id/family/children.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-family-filter-children" href="https://yandex.kz/support/id/family/children.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-family-filter-children" href="https://yandex.uz/support/id/family/children.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-family-filter-children" href="https://yandex.com/support/id/family/children.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-family-filter-children" href="https://yandex.com.tr/support/id/family/children.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-title" href="https://yandex.ru/support/webmaster/search-results/title.html#description" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-title" href="https://yandex.kz/support/webmaster/search-results/title.html#description" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-title" href="https://yandex.uz/support/webmaster/search-results/title.html#description" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-title" href="https://yandex.com/support/webmaster/search-results/title.html#description" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-title" href="https://yandex.com.tr/support/webmaster/search-results/title.html#description" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-description" href="https://yandex.ru/support/webmaster/indexing-options/description.html#description" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-description" href="https://yandex.kz/support/webmaster/indexing-options/description.html#description" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-description" href="https://yandex.uz/support/webmaster/indexing-options/description.html#description" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-description" href="https://yandex.com/support/webmaster/indexing-options/description.html#description" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-description" href="https://yandex.com.tr/support/webmaster/indexing-options/description.html#description" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-intro-schema-org" href="https://yandex.ru/support/webmaster/schema-org/intro-schema-org.html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-webmaster-intro-schema-org" href="https://yandex.com/support/webmaster/schema-org/intro-schema-org.html" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-intro-schema-org" href="https://yandex.com.tr/support/webmaster/schema-org/intro-schema-org.html" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-data-transmit" href="https://yandex.ru/support/webmaster/site-content/data-transmit.html#data-transmit" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-webmaster-data-transmit" href="https://yandex.com/support/webmaster/site-content/data-transmit.html#data-transmit" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-data-transmit" href="https://yandex.com.tr/support/webmaster/site-content/data-transmit.html#data-transmit" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-meta-robots" href="https://yandex.ru/support/webmaster/controlling-robot/meta-robots.html#meta-robots" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-meta-robots" href="https://yandex.kz/support/webmaster/controlling-robot/meta-robots.html#meta-robots" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-meta-robots" href="https://yandex.uz/support/webmaster/controlling-robot/meta-robots.html#meta-robots" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-meta-robots" href="https://yandex.com/support/webmaster/controlling-robot/meta-robots.html#meta-robots" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-meta-robots" href="https://yandex.com.tr/support/webmaster/controlling-robot/meta-robots.html#meta-robots" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-indexing-prohibition" href="https://yandex.ru/support/webmaster/adding-site/indexing-prohibition.html#indexing-prohibition__content" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-indexing-prohibition" href="https://yandex.kz/support/webmaster/adding-site/indexing-prohibition.html#indexing-prohibition__content" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-indexing-prohibition" href="https://yandex.uz/support/webmaster/adding-site/indexing-prohibition.html#indexing-prohibition__content" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-indexing-prohibition" href="https://yandex.com/support/webmaster/adding-site/indexing-prohibition.html#indexing-prohibition__content" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-indexing-prohibition" href="https://yandex.com.tr/support/webmaster/adding-site/indexing-prohibition.html#indexing-prohibition__content" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-create-favicon" href="https://yandex.ru/support/webmaster/search-results/create-favicon.html#create-favicon" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-create-favicon" href="https://yandex.kz/support/webmaster/search-results/create-favicon.html#create-favicon" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-create-favicon" href="https://yandex.uz/support/webmaster/search-results/create-favicon.html#create-favicon" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-create-favicon" href="https://yandex.com/support/webmaster/search-results/create-favicon.html#create-favicon" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-create-favicon" href="https://yandex.com.tr/support/webmaster/search-results/create-favicon.html#create-favicon" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-create-favicon-site" href="https://yandex.ru/support/webmaster/search-results/create-favicon.html#create-favicon__site" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-create-favicon-site" href="https://yandex.kz/support/webmaster/search-results/create-favicon.html#create-favicon__site" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-create-favicon-site" href="https://yandex.uz/support/webmaster/search-results/create-favicon.html#create-favicon__site" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-create-favicon-site" href="https://yandex.com/support/webmaster/search-results/create-favicon.html#create-favicon__site" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-create-favicon-site" href="https://yandex.com.tr/support/webmaster/search-results/create-favicon.html#create-favicon__site" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-site-reindex" href="https://yandex.ru/support/webmaster/robot-workings/site-reindex.html" scope="external" locale="ru"/>
+  <keydef keys="url-webmaster-site-reindex" href="https://yandex.kz/support/webmaster/robot-workings/site-reindex.html" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-site-reindex" href="https://yandex.uz/support/webmaster/robot-workings/site-reindex.html" scope="external" locale="uz"/>
+  <keydef keys="url-webmaster-site-reindex" href="https://yandex.com/support/webmaster/robot-workings/site-reindex.html" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-site-reindex" href="https://yandex.com.tr/support/webmaster/robot-workings/site-reindex.html" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-troubleshooting" href="https://yandex.ru/support/webmaster-troubleshooting" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-webmaster-troubleshooting" href="https://yandex.com/support/webmaster-troubleshooting" format="html" scope="external" locale="com"/>
+  <keydef keys="url-webmaster-troubleshooting" href="https://yandex.com.tr/support/webmaster-troubleshooting" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-webmaster-troubleshooting-plus" href="https://yandex.ru/support/plus-ru/troubleshooting.html" scope="external" locale="ru com tr"/>
+  <keydef keys="url-webmaster-troubleshooting-plus" href="https://yandex.kz/support/plus-kz/troubleshooting.html" scope="external" locale="kz"/>
+  <keydef keys="url-webmaster-troubleshooting-plus" href="https://yandex.uz/support/plus-uz/troubleshooting.html" scope="external" locale="uz"/>
+
+  <keydef keys="url-market-troubleshooting-general" href="https://yandex.ru/support/market/troubleshooting/general.html" scope="external"/>
+
+  <keydef keys="url-yandex-chat" href="https://yandex.ru/chat/#/user/8adcfc02-1831-9326-7238-a0379d251d61" scope="external"/>
+
+  <keydef keys="url-yandex-feedback" href="https://yandex.ru/support/id/feedback.html" scope="external" locale="ru"/>
+  <keydef keys="url-yandex-feedback" href="https://yandex.kz/support/id/feedback.html" scope="external" locale="kz"/>
+  <keydef keys="url-yandex-feedback" href="https://yandex.uz/support/id/feedback.html" scope="external" locale="uz"/>
+  <keydef keys="url-yandex-feedback" href="https://yandex.com/support/id/feedback.html" scope="external" locale="com"/>
+  <keydef keys="url-yandex-feedback" href="https://yandex.com.tr/support/id/feedback.html" scope="external" locale="tr"/>
+
+  <keydef keys="url-troubleshooting-wishes" href="https://yandex.ru/support/uslugi/troubleshooting/wishes.html" scope="external"/>
+
+  <keydef keys="url-yandex-support-eda" href="https://yandex.ru/support/eda/" scope="external"/>
+
+  <keydef keys="url-troubleshooting-other" href="https://yandex.ru/support/direct/troubleshooting/other.html" scope="external" locale="ru kz uz"/>
+  <keydef keys="url-troubleshooting-other" href="https://yandex.com/support/direct/troubleshooting/other.html" scope="external" locale="com"/>
+  <keydef keys="url-troubleshooting-other" href="https://yandex.com.tr/support/direct/troubleshooting/other.html" scope="external" locale="tr"/>
+
+  <keydef keys="url-company-technologies-turbo" href="https://yandex.ru/company/technologies/turbo" format="html" scope="external"/>
+
+  <keydef keys="url-support-troubleshooting-turbo-list" href="https://yandex.ru/support/abuse/troubleshooting/turbo/list.html" format="html" scope="external" locale="ru"/>
+  <keydef keys="url-support-troubleshooting-turbo-list" href="https://yandex.kz/support/abuse/troubleshooting/turbo/list.html" format="html" scope="external" locale="kz"/>
+  <keydef keys="url-support-troubleshooting-turbo-list" href="https://yandex.uz/support/abuse/troubleshooting/turbo/list.html" format="html" scope="external" locale="uz"/>
+  <keydef keys="url-support-troubleshooting-turbo-list" href="https://yandex.com/support/abuse/troubleshooting/turbo/list.html" format="html" scope="external" locale="com"/>
+  <keydef keys="url-support-troubleshooting-turbo-list" href="https://yandex.com.tr/support/abuse/troubleshooting/turbo/list.html" format="html" scope="external" locale="tr"/>
+
+  <keydef keys="url-turbo-connection" href="https://yandex.ru/dev/turbo/doc/concepts/index.html" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-turbo-connection" href="https://yandex.com/dev/turbo/doc/concepts/index.html" format="html" scope="external" locale="com tr"/>
+
+  <keydef keys="url-turbo-mistakes" href="https://yandex.ru/dev/turbo/doc/rss/requirements.html#turbo-mistakes" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-turbo-mistakes" href="https://yandex.com/dev/turbo/doc/rss/requirements.html#turbo-mistakes" format="html" scope="external" locale="com tr"/>
+
+  <keydef keys="url-turbo-rss-elements" href="https://yandex.ru/dev/turbo/doc/rss/markup.html#rss-element" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-turbo-rss-elements" href="https://yandex.com/dev/turbo/doc/rss/markup.html#rss-element" format="html" scope="external" locale="com tr"/>
+
+  <keydef keys="url-turbo-snippet" href="https://yandex.ru/dev/turbo/doc/concepts/troubleshooting.html" format="html" scope="external" locale="ru uz kz"/>
+  <keydef keys="url-turbo-snippet" href="https://yandex.com/dev/turbo/doc/concepts/troubleshooting.html" format="html" scope="external" locale="com tr"/>
+
+  <keydef keys="url-company-press_releases" href="https://company.yandex.ru/press_releases/2012/1212/" format="html" scope="external"/>
+  <keydef keys="url-company-blog" href="http://habrahabr.ru/company/yandex/blog/162245/" format="html" scope="external"/>
+
+  <keydef keys="url-search-example" locale="ru" href="https://yandex.ru/search/?text=рассказал" format="html" scope="external"/>
+
+</map>
